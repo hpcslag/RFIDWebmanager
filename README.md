@@ -7,7 +7,7 @@
 ***您可以使用 XAMPP 等等有 Apache 及 MySQL 的環境軟體下進行安裝。***
 使用localhost:80 打開這項專案
 您會發現錯誤，這時請您在網址後面輸入 localhost:80/install 進入安裝模式
-![img](https://www.dropbox.com/s/y3br3x8w9274ds4/Screen%20Shot%202014-07-24%20at%2012.22.43%20AM.png "img")
+![img](http://1.bp.blogspot.com/-k8dd-mVye7c/U9C62tQg_bI/AAAAAAAAAvs/8fpLFJxrLkQ/s1600/TwKno4X9jYwm0OdL_qMOvhH7UmAhXooEX8uqfrXC_LY.png "img")
 以上需要針對您的MySQL帳號密碼進行設定
 ```bash
 $ localhost : localhost
@@ -22,7 +22,7 @@ $ password  : 1234
 	*您的主機port是否正確(預設80)
 
 完成後您將會轉到一個帳號配置的頁面，請輸入您的管理者帳號
-![img](https://www.dropbox.com/s/95ge3tqctj2piwv/Screen%20Shot%202014-07-24%20at%2012.37.39%20AM.png "img")
+![img](http://2.bp.blogspot.com/-XXYmz_nYEmA/U9C62gLjI-I/AAAAAAAAAvw/WkVzqor9DyY/s1600/UdGDDgDatVyVxzaEA4N4hKx6aGMrlNXGgpjV32JY5UE.png "img")
 完成後建議您刪除install的目錄
 
 安裝步驟完成後會跳轉到登入頁面，登入剛剛新增的帳號後即可使用。
