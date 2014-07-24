@@ -1,0 +1,33 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #f9f9f9;
+}
+#content {
+	width: 970px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding: 125px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#content form {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+	margin: 0 auto;
+	box-sizing: border-box;
+	background-color: white;
+	border: 1px solid #e0e0e0;
+}
+#content label{
+	position: relative;
+	top: 10px;
+}
+#content h2 {
+	color: #555;
+	font: 300 35px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-shadow: 1px 0 #eee;
+	line-height: 1.3;
+}
